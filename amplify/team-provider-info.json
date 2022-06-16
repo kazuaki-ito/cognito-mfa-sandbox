@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cognitomfasandbox-dev-132159-authRole",
+      "UnauthRoleArn": "arn:aws:iam::231385622770:role/amplify-cognitomfasandbox-dev-132159-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::231385622770:role/amplify-cognitomfasandbox-dev-132159-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-cognitomfasandbox-dev-132159-deployment",
+      "UnauthRoleName": "amplify-cognitomfasandbox-dev-132159-unauthRole",
+      "StackName": "amplify-cognitomfasandbox-dev-132159",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:231385622770:stack/amplify-cognitomfasandbox-dev-132159/e1f15930-ed2b-11ec-9c87-063133a68307",
+      "AmplifyAppId": "d1kepn3t65nhbs"
+    },
+    "categories": {
+      "auth": {
+        "cognitomfasandbox583da740583da740": {}
+      }
+    }
+  }
+}
