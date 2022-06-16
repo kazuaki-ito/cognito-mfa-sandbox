@@ -85,6 +85,7 @@ function App() {
     event.preventDefault()
     try {
       let user = await Auth.currentAuthenticatedUser()
+      // 注　）事前に電話番号が登録されていて認証済みになっている必要あり
       await Auth.setPreferredMFA(user, 'SMS');
       alert('success')
       user = await Auth.currentAuthenticatedUser()
